@@ -11,3 +11,5 @@ Self-custody wallets
 DeFi systems
 AI agents in Web3
 On-chain coordination
+Reading about Layer 2 scaling and Web3 infrastructure systems.
+Learning how decentralized networks support digital ownership and open ecosystems.
