@@ -11,3 +11,5 @@ Robot manipulation
 Teleoperation systems
 Sim-to-real learning
 Data collection for embodied AI
+Reading more about closed-loop robotics training systems.
+Learning how simulation environments help improve robot behavior.
